@@ -1,2 +1,2 @@
 # cnd
-Asset to resources ocoBase
+Assets to resources ocoBase
