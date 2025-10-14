@@ -1,24 +1,4 @@
-<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <circle
-    cx="200"
-    cy="200"
-    r="162"
-    fill="none"
-    stroke-width="65"
-    stroke-dasharray="199.74 1296.26" 
-    stroke-dashoffset="0"
-    transform="rotate(22.5 200 200)"
-    class="inside-stroke"
-  />
-  <circle
-    cx="200"
-    cy="200"
-    r="196"
-    fill="none"
-    stroke-width="4"
-    stroke-dasharray="241.73 992.27"
-    stroke-dashoffset="0"
-    transform="rotate(22.5 200 200)"
-    class="outer-stroke"
-  />
+<svg width="130" height="223" viewBox="0 0 130 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="inside-stroke" d="M103.883 2.36443C132.222 72.5066 132.031 150.946 103.349 220.949L0.0337215 178.618C17.6729 135.567 17.7908 87.3268 0.362197 44.1896L103.883 2.36443Z" fill="#070707" fill-opacity="0.43"/>
+<path class="outside-stroke" d="M108.52 0.491105C137.348 71.8426 137.153 151.635 107.977 222.844L103.717 221.099C132.437 151 132.629 72.4537 104.251 2.21575L108.52 0.491105Z" fill="black" fill-opacity="0.78"/>
 </svg>
